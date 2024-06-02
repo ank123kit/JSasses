@@ -55,7 +55,7 @@ function datastu() {
 }
 
 // call your functions below this line
-mintNFT("Ankit","814A","","Computer Science","DAV"99\n");
+mintNFT("Ankit","814A","DAV","Science","99"\n");
 mintNFT("Priya","814B","DAV","AIML","97");
 listNFT();
 datastu();
